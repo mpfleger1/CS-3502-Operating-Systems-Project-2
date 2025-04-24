@@ -1,0 +1,14 @@
+C:\Users\mpfle\Documents\School Stuff\Operating Systems\Project2\Project2\bin\Debug\net9.0\Project2.exe
+C:\Users\mpfle\Documents\School Stuff\Operating Systems\Project2\Project2\bin\Debug\net9.0\Project2.deps.json
+C:\Users\mpfle\Documents\School Stuff\Operating Systems\Project2\Project2\bin\Debug\net9.0\Project2.runtimeconfig.json
+C:\Users\mpfle\Documents\School Stuff\Operating Systems\Project2\Project2\bin\Debug\net9.0\Project2.dll
+C:\Users\mpfle\Documents\School Stuff\Operating Systems\Project2\Project2\bin\Debug\net9.0\Project2.pdb
+C:\Users\mpfle\Documents\School Stuff\Operating Systems\Project2\Project2\obj\Debug\net9.0\Project2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpfle\Documents\School Stuff\Operating Systems\Project2\Project2\obj\Debug\net9.0\Project2.AssemblyInfoInputs.cache
+C:\Users\mpfle\Documents\School Stuff\Operating Systems\Project2\Project2\obj\Debug\net9.0\Project2.AssemblyInfo.cs
+C:\Users\mpfle\Documents\School Stuff\Operating Systems\Project2\Project2\obj\Debug\net9.0\Project2.csproj.CoreCompileInputs.cache
+C:\Users\mpfle\Documents\School Stuff\Operating Systems\Project2\Project2\obj\Debug\net9.0\Project2.dll
+C:\Users\mpfle\Documents\School Stuff\Operating Systems\Project2\Project2\obj\Debug\net9.0\refint\Project2.dll
+C:\Users\mpfle\Documents\School Stuff\Operating Systems\Project2\Project2\obj\Debug\net9.0\Project2.pdb
+C:\Users\mpfle\Documents\School Stuff\Operating Systems\Project2\Project2\obj\Debug\net9.0\Project2.genruntimeconfig.cache
+C:\Users\mpfle\Documents\School Stuff\Operating Systems\Project2\Project2\obj\Debug\net9.0\ref\Project2.dll
